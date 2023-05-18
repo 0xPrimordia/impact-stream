@@ -1,4 +1,4 @@
-import data from '../../assets/landingCopy.json'
+import data from '../assets/landingCopy.json';
 export const load = () => {
-    return data[0]
-}
+	return data[0];
+};
