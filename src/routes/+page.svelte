@@ -1,14 +1,16 @@
 <script lang="ts">
 	import Navbar from '../components/landing/Navbar.svelte';
+	import Logo from '../components/landing/Logo.svelte';
 	import Valueprop from '../components/landing/Valueprop.svelte';
 	import Footer from '../components/landing/Footer.svelte';
+
 	export let data;
 </script>
 
 <Navbar />
 <div class="wrapper">
 	<section>
-		<h1>{data.hero.title}</h1>
+		<h1 id="hero-heading">{data.hero.title}</h1>
 		<p>{data.hero.sub}</p>
 		<button>Donate</button>
 	</section>
@@ -29,7 +31,13 @@
 <div class="wrapper">
 	<section>
 		<h1>Partners</h1>
-		<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+		<div>
+			<Logo src="images/ilad-logo.svg" />
+			<Logo src="images/supermodular-logo.svg" />
+			<Logo src="images/prota-ventures-logo.svg" />
+			<Logo src="images/gitcoin-logo.svg" />
+			<Logo src="images/impact-stream-logo.svg" />
+		</div>
 	</section>
 </div>
 <Footer />
@@ -45,10 +53,12 @@
 
 	.wrapper section h1 {
 		font-size: 4rem;
-		color: #3e5f72;
 		margin: 7.5rem 0 0 0;
 	}
 
+	#hero-heading {
+		color: #3e5f72;
+	}
 	.wrapper section p {
 		font-size: 2.5rem;
 		margin-bottom: 3rem;
@@ -64,5 +74,9 @@
 		font-weight: bold;
 		width: 33.3%;
 	}
-</style>
 
+	.wrapper section div {
+		display: flex;
+		flex-direction: row;
+	}
+</style>
