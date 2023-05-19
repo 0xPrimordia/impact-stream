@@ -7,7 +7,6 @@
 <style>
 	.logo {
 		display: inline-block;
-		padding: 1.5rem 0;
+		padding: 1rem 1rem;
 	}
 </style>
-
