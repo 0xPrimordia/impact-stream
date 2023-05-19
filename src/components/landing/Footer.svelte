@@ -16,6 +16,11 @@
         background-size: 100%;
         height: 22px;
     }
+    div.ripple-line-blue {
+        background: top center transparent url('/images/ripple-line-blue.svg') no-repeat;
+        background-size: 100%;
+        height: 28px;
+    }
     footer.footer .bottom {
         display: flex;
         align-items: center;
@@ -51,6 +56,16 @@
         font-weight: bold;
         color: #EBE8CC;
     }
+    .donate {
+        width: 960px;
+        margin: auto;
+        padding: 4em 0;
+    }
+    .donate .copy {
+        font-size: 2em;
+        font-weight: bold;
+        color: #3E5F72;
+    }
     .footer-cta button {
         background: #EBE8CB;
         border-radius: 5px;
@@ -65,6 +80,12 @@
     }
 </style>
 <footer class="footer">
+    <div class="ripple-line-blue"></div>
+    <div class="donate">
+        <div class="copy">
+            <span>Cras fringilla dolor vitae justo,<br> aliquet ultricies tortor aliquam.</span>
+        </div>
+    </div>
     <div class="ripple-border top"></div>
     <section>
         <div class="footer-cta">
