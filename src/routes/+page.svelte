@@ -3,6 +3,7 @@
 	import Logo from '../components/landing/Logo.svelte';
 	import Valueprop from '../components/landing/Valueprop.svelte';
 	import Footer from '../components/landing/Footer.svelte';
+	import Explainer from '../components/landing/Explainer.svelte';
 
 	export let data;
 </script>
@@ -16,12 +17,7 @@
 	</section>
 </div>
 <Valueprop />
-<div class="wrapper">
-	<section>
-		<h1>Explainer Section</h1>
-		<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-	</section>
-</div>
+<Explainer />
 <div class="wrapper">
 	<section>
 		<h1>Team Section</h1>
