@@ -3,7 +3,7 @@
 </script>
 
 <nav class="main-nav">
-	<Logo />
+	<Logo src="images/impact-stream-logo.svg" />
 	<ul class="nav-links">
 		<li class="nav-item"><a href="/">Home</a></li>
 		<li class="nav-item"><a href="/app">App</a></li>
