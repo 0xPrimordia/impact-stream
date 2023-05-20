@@ -11,7 +11,7 @@
 <div class="wrapper">
 	<section>
 		<h1 id="hero-heading">{data.hero.title}</h1>
-		<p>{data.hero.sub}</p>
+		<p class="sub">{data.hero.sub}</p>
 		<button>Donate</button>
 	</section>
 </div>
@@ -49,18 +49,19 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		padding: 6em 0;
 	}
 
 	.wrapper section h1 {
-		font-size: 4rem;
-		margin: 7.5rem 0 0 0;
+		font-size: 3rem;
+		color: #3e5f72;
 	}
 
 	#hero-heading {
 		color: #3e5f72;
 	}
 	.wrapper section p {
-		font-size: 2.5rem;
+		font-size: 2rem;
 		margin-bottom: 3rem;
 	}
 
@@ -74,6 +75,10 @@
 		font-weight: bold;
 		width: 33.3%;
 	}
+	.wrapper p.sub {
+		text-align: center;
+	}
+</style>
 
 	.wrapper section div {
 		display: flex;

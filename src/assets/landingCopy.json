@@ -4,6 +4,11 @@
             "title": "Digital -> IRL Impact",
             "sub": "We create transparent streams of impact between digital communities and real-life communities",
             "button": "Donate"
+        },
+        "footer": {
+            "discordCta": "Join our Discord lorem ipsum dolor sit amet",
+            "button": "Join Now",
+            "email": "hello@impact.stream"
         }
     }
 ]
