@@ -78,7 +78,6 @@
 	.wrapper p.sub {
 		text-align: center;
 	}
-</style>
 
 	.wrapper section div {
 		display: flex;
