@@ -14,12 +14,12 @@
     div.ripple-line {
         background: top center transparent url('/images/ripple-line.svg') no-repeat;
         background-size: 100%;
-        height: 22px;
+        height: 40px;
     }
     div.ripple-line-blue {
         background: top center transparent url('/images/ripple-line-blue.svg') no-repeat;
         background-size: 100%;
-        height: 28px;
+        height: 40px;
     }
     footer.footer .bottom {
         display: flex;
