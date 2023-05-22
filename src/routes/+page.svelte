@@ -10,7 +10,7 @@
 
 <Navbar />
 <div class="wrapper">
-	<section>
+	<section class="section-hero">
 		<h1 id="hero-heading">{data.hero.title}</h1>
 		<p class="sub">{data.hero.sub}</p>
 		<button>Donate</button>
@@ -20,8 +20,33 @@
 <Explainer />
 <div class="wrapper">
 	<section>
-		<h1>Team Section</h1>
-		<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+		<h1>Team</h1>
+		<div class="team">
+			<div class="member">
+				<div class="avatar"></div>
+				<div><h3>Alidra</h3></div>
+			</div>
+			<div class="member">
+				<div style="background-image:url(/images/will.png)" class="avatar"></div>
+				<div><h3>Will</h3></div>
+			</div>
+			<div class="member">
+				<div class="avatar"></div>
+				<div><h3>Laté</h3></div>
+			</div>
+			<div class="member">
+				<div style="background-image:url(/images/zakk.png)" class="avatar"></div>
+				<div><h3>Zakk</h3></div>
+			</div>
+			<div class="member">
+				<div class="avatar"></div>
+				<div><h3>Angela</h3></div>
+			</div>
+			<div class="member">
+				<div style="background-image:url(/images/kevin.png)" class="avatar"></div>
+				<div><h3>Kevin</h3></div>
+			</div>
+		</div>
 	</section>
 </div>
 <div class="wrapper">
@@ -45,7 +70,10 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		padding: 6em 0;
+		padding: 2em 0;
+	}
+	section.section-hero {
+		padding: 8rem 0;
 	}
 
 	.wrapper section h1 {
@@ -79,5 +107,23 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+	}
+	div.team {
+		display: flex;
+		flex-wrap: wrap;
+		max-width: 600px;
+	} 
+	div.team .member {
+		margin: 2rem;
+		display: block;
+		text-align: center;
+	}
+	div.team .member > div.avatar {
+		width: 8rem;
+		height: 8rem;
+		background: #3E5F72;
+		border-radius: 4rem;
+		margin: auto;
+		display: block;
 	}
 </style>
