@@ -58,4 +58,16 @@
 	section div a:hover {
 		border-bottom: 2px solid #3e5f72;
 	}
+
+	@media (max-width: 680px) {
+		.content-wrapper section {
+			flex-direction: column;
+		} 
+		section .value-prop-left {
+			text-align: center;
+		}
+		section .value-prop-left img {
+			margin: 0;
+		}
+	}
 </style>
