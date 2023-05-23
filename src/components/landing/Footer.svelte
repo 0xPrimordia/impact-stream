@@ -78,6 +78,11 @@
     .footer-cta .button-wrap {
         margin-left: auto;
     }
+    @media (max-width: 950px) {
+        .donate {
+            padding: 4rem 2rem;
+        }
+    }
 </style>
 <footer class="footer">
     <div class="ripple-line-blue"></div>
