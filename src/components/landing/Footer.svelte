@@ -57,7 +57,7 @@
         color: #EBE8CC;
     }
     .donate {
-        width: 960px;
+        max-width: 960px;
         margin: auto;
         padding: 4em 0;
     }
@@ -77,6 +77,11 @@
     }
     .footer-cta .button-wrap {
         margin-left: auto;
+    }
+    @media (max-width: 950px) {
+        .donate {
+            padding: 4rem 2rem;
+        }
     }
 </style>
 <footer class="footer">

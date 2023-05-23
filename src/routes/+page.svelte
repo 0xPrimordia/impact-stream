@@ -52,7 +52,7 @@
 <div class="wrapper">
 	<section>
 		<h1>Partners</h1>
-		<div>
+		<div class="partners">
 			<Logo src="images/ilad-logo.svg" />
 			<Logo src="images/supermodular-logo.svg" />
 			<Logo src="images/prota-ventures-logo.svg" />
@@ -107,6 +107,7 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		flex-wrap: wrap;
 	}
 	div.team {
 		display: flex;
@@ -125,5 +126,19 @@
 		border-radius: 4rem;
 		margin: auto;
 		display: block;
+	}
+	@media (max-width: 950px) {
+		section.section-hero {
+			padding: 4rem 0;
+		}
+		.wrapper section h1 {
+			font-size: 2rem;
+		}
+		.wrapper section p {
+			font-size: 1.5rem;
+		}
+		.wrapper section {
+			padding: 2rem;
+		}
 	}
 </style>
