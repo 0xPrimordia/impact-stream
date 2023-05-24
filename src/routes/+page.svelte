@@ -121,6 +121,7 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		flex-wrap: wrap;
 	}
 	div.team {
 		display: flex;
@@ -141,8 +142,24 @@
 		display: block;
 	}
 
+
 	div.partner-logos {
 		display: flex;
 		flex-wrap: wrap;
+
+	@media (max-width: 950px) {
+		section.section-hero {
+			padding: 4rem 0;
+		}
+		.wrapper section h1 {
+			font-size: 2rem;
+		}
+		.wrapper section p {
+			font-size: 1.5rem;
+		}
+		.wrapper section {
+			padding: 2rem;
+		}
+
 	}
 </style>
