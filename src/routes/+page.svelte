@@ -14,7 +14,7 @@
 	<section class="section-hero">
 		<h1 id="hero-heading">{data.hero.title}</h1>
 		<p class="sub">{data.hero.sub}</p>
-		<button on:click={() => (window.location.href="/#Donate")}>Donate</button>
+		<button class="anchor" on:click={() => (window.location.href="/#Donate")}>Donate</button>
 	</section>
 </div>
 <Valueprop />
@@ -78,6 +78,9 @@
 <Footer />
 
 <style>
+	.anchor {
+		cursor: pointer;
+	}
 	.wrapper section {
 		max-width: 960px;
 		margin: auto;
@@ -146,7 +149,7 @@
 	div.partner-logos {
 		display: flex;
 		flex-wrap: wrap;
-
+	}
 	@media (max-width: 950px) {
 		section.section-hero {
 			padding: 4rem 0;
