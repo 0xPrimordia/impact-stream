@@ -4,6 +4,7 @@
 	import Valueprop from '../components/landing/Valueprop.svelte';
 	import Footer from '../components/landing/Footer.svelte';
 	import Explainer from '../components/landing/Explainer.svelte';
+	import About from '../components/landing/About.svelte';
 
 	export let data;
 </script>
@@ -17,34 +18,47 @@
 	</section>
 </div>
 <Valueprop />
+<About />
 <Explainer />
 <div class="wrapper">
 	<section>
 		<h1>Team</h1>
 		<div class="team">
 			<div class="member">
-				<div class="avatar"></div>
+				<div class="avatar" />
 				<div><h3>Alidra</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/will.png)" class="avatar"></div>
+				<div style="background-image:url(/images/will.png)" class="avatar" />
 				<div><h3>Will</h3></div>
 			</div>
 			<div class="member">
-				<div class="avatar"></div>
+				<div class="avatar" />
 				<div><h3>Laté</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/zakk.png)" class="avatar"></div>
+				<div style="background-image:url(/images/zakk.png)" class="avatar" />
 				<div><h3>Zakk</h3></div>
 			</div>
 			<div class="member">
-				<div class="avatar"></div>
+				<div class="avatar" />
 				<div><h3>Angela</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/kevin.png)" class="avatar"></div>
+				<div style="background-image:url(/images/kevin.png)" class="avatar" />
 				<div><h3>Kevin</h3></div>
+			</div>
+			<div class="member">
+				<div style="background-image:url()" class="avatar" />
+				<div><h3>Matt</h3></div>
+			</div>
+			<div class="member">
+				<div style="background-image:url()" class="avatar" />
+				<div><h3>Kevin</h3></div>
+			</div>
+			<div class="member">
+				<div style="background-image:url()" class="avatar" />
+				<div><h3>Rob</h3></div>
 			</div>
 		</div>
 	</section>
@@ -52,12 +66,12 @@
 <div class="wrapper">
 	<section>
 		<h1>Partners</h1>
-		<div>
+		<div class="partner-logos">
 			<Logo src="images/ilad-logo.svg" />
 			<Logo src="images/supermodular-logo.svg" />
 			<Logo src="images/prota-ventures-logo.svg" />
 			<Logo src="images/gitcoin-logo.svg" />
-			<Logo src="images/impact-stream-logo.svg" />
+			<Logo src="images/primordia-logo.svg" />
 		</div>
 	</section>
 </div>
@@ -112,7 +126,7 @@
 		display: flex;
 		flex-wrap: wrap;
 		max-width: 600px;
-	} 
+	}
 	div.team .member {
 		margin: 2rem;
 		display: block;
@@ -121,9 +135,14 @@
 	div.team .member > div.avatar {
 		width: 8rem;
 		height: 8rem;
-		background: #3E5F72;
+		background: #3e5f72;
 		border-radius: 4rem;
 		margin: auto;
 		display: block;
+	}
+
+	div.partner-logos {
+		display: flex;
+		flex-wrap: wrap;
 	}
 </style>
