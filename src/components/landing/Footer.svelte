@@ -14,7 +14,7 @@
 
 <footer class="footer">
 	<div class="ripple-line-blue" />
-	<div class="donate">
+	<div id="Donate" class="donate">
 		<div class="copy">
 			<span>Cras fringilla dolor vitae justo,<br /> aliquet ultricies tortor aliquam.</span>
 		</div>
