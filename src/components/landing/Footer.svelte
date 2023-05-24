@@ -134,17 +134,19 @@
 		padding: 1em 3em;
 	}
 	.buttons button .copy-icon {
+		width: 1.5em;
+		height: 1.5em;
 		position: relative;
-		top: 0.3em;
-		left: 0.3em;
+		top: 0.2em;
+		left: 0.2em;
 	}
 
 	.buttons button .check-icon {
-		width: 2em;
-		height: 2em;
+		width: 1.5em;
+		height: 1.5em;
 		position: relative;
-		top: 0.3em;
-		left: 0.4em;
+		top: 0.2em;
+		left: 0.2em;
 	}
 	.buttons button:first-of-type {
 		margin-bottom: 1.5em;
