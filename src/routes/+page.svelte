@@ -14,7 +14,7 @@
 	<section class="section-hero">
 		<h1 id="hero-heading">{data.hero.title}</h1>
 		<p class="sub">{data.hero.sub}</p>
-		<button>Donate</button>
+		<button on:click={() => (window.location.href="/#Donate")}>Donate</button>
 	</section>
 </div>
 <Valueprop />
