@@ -6,22 +6,22 @@
 				<img src="/images/phone.svg" alt="phone with voting options" />
 			</div>
 			<div class="value-prop-right">
-				<h1>On-Chain Quadratic Voting to Facilitate IRL Impact in Togo, West Africa</h1>
+				<h1>Current Project: On-Chain Quadratic Voting and Matching Pool in Togo, West Africa</h1>
 				<p>
-					Cras fringilla dolor vitae justo pharetra, aliquet ultricies tortor aliquam. Maecenas sed
-					ultricies nibh. Nullam ac pretium lorem, at tempor nulla. Pellentesque condimentum justo
-					velit, et tempor libero suscipit et. Praesent placerat velit quis bibendum tristique. Duis
-					sollicitudin ipsum id rhoncus auctor.
+					We are building and deploying a software application that will onboard 100 Togolese into
+					Web3, allow them to submit proposals for IRL public goods (wells for clean water, schools,
+					clinics, entrepreneurial endeavors for economic growth, etc), and conduct quadratic voting
+					on the proposals that are most meaningful to them.
 				</p>
 				<p>
-					Proin nec viverra est, in bibendum ex. Suspendisse bibendum porttitor viverra. Vestibulum
-					placerat dui vitae accumsan tempor. Nam tempus tortor sit amet lorem aliquam, et molestie
-					enim feugiat. Suspendisse non dui massa. Proin commodo est nec libero bibendum volutpat
-					vitae nec ante. Nunc placerat lectus in placerat malesuada.
-				</p>
-				<p>
-					Praesent placerat velit quis bibendum tristique. Duis sollicitudin ipsum id rhoncus
-					auctor. Proin nec viverra est, in bibendum ex. Suspendisse bibendum porttitor viverra.
+					The old way of non-profit work often involves a charitable outsider trying to solve the
+					problems of a struggling community. Although this is well meaning, we’ve created a better
+					way. Using Gitcoin’s <span><a href="https://docs.allo.gitcoin.co/">Allo Protocol</a></span
+					>
+					and <span><a href="https://www.gitcoin.co/grants-stack">Grants Stack</a></span>, we
+					empower local people to propose their own solutions to the struggles their community is
+					facing, signal to donors which proposals are most desired, and then leverage local
+					laborers and vendors to build and maintain the public goods that are funded.
 				</p>
 				<button type="button" disabled>Coming Soon</button>
 			</div>
@@ -86,5 +86,13 @@
 		margin-top: 3em;
 		margin-right: 6em;
 	}
-</style>
 
+	p span a {
+		text-decoration: none;
+		color: #3e5f72;
+	}
+
+	p span a:hover {
+		border-bottom: 1px solid #3e5f72;
+	}
+</style>
