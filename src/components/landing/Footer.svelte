@@ -1,15 +1,67 @@
 <script lang="ts">
-
+	import { copy, type CopyDetail } from '@svelte-put/copy';
+	let ensButton: HTMLButtonElement;
+	let addressButton: HTMLButtonElement;
+	let ensIsClicked = false;
+	let addressIsClicked = false;
+	const handleEnsClick = () => {
+		ensIsClicked = !ensIsClicked;
+	};
+	const handleAddressClick = () => {
+		addressIsClicked = !addressIsClicked;
+	};
 </script>
+
+<footer class="footer">
+	<div class="ripple-line-blue" />
+	<div class="donate">
+		<div class="copy">
+			<span>Cras fringilla dolor vitae justo,<br /> aliquet ultricies tortor aliquam.</span>
+		</div>
+		<div class="buttons">
+			<button on:click={handleEnsClick} use:copy
+				>impactstream.eth
+
+				{#if ensIsClicked}
+					<img src="/images/checkmark-icon.svg" alt="Check icon" class="check-icon" />
+				{:else}<img src="/images/copy-icon.svg" alt="Copy icon" class="copy-icon" />
+				{/if}</button
+			>
+			<button on:click={handleAddressClick} use:copy
+				>0xc45...1FB48
+				{#if addressIsClicked}
+					<img src="/images/checkmark-icon.svg" alt="Check icon" class="check-icon" />
+				{:else}<img src="/images/copy-icon.svg" alt="Copy icon" class="copy-icon" />
+				{/if}
+			</button>
+		</div>
+	</div>
+	<div class="ripple-border top" />
+	<section>
+		<div class="footer-cta">
+			<div class="copy">
+				<span>Join our Discord lorem<br /> ipsum dolor sit amet</span>
+			</div>
+			<div class="button-wrap">
+				<button>Join Now</button>
+			</div>
+		</div>
+		<div class="ripple-line" />
+		<div class="bottom">
+			<img src="/images/logo-small.png" alt="Impact Stream" />
+			<div class="footer-link"><a href="mailto:hello@impact.stream">hello@impact.stream</a></div>
+		</div>
+	</section>
+</footer>
+
 <style>
-    footer.footer section {
-        background: rgba(105,132,146,1);
-    }
-    div.ripple-border {
-        height: 40px;
-        background: top center transparent url('/images/ripple-border.svg');
-		background-size: cover;
-       
+	footer.footer section {
+		background: rgba(105, 132, 146, 1);
+	}
+	div.ripple-border {
+		height: 40px;
+		background: top center transparent url('/images/ripple-border.svg');
+		background-size: cover; 
     }
     div.ripple-line {
         background: top center transparent url('/images/ripple-line.svg') no-repeat;
@@ -84,27 +136,3 @@
         }
     }
 </style>
-<footer class="footer">
-    <div class="ripple-line-blue"></div>
-    <div class="donate">
-        <div class="copy">
-            <span>Cras fringilla dolor vitae justo,<br> aliquet ultricies tortor aliquam.</span>
-        </div>
-    </div>
-    <div class="ripple-border top"></div>
-    <section>
-        <div class="footer-cta">
-            <div class="copy">
-                <span>Join our Discord lorem<br> ipsum dolor sit amet</span>
-            </div>
-            <div class="button-wrap">
-                <button>Join Now</button>
-            </div>
-        </div>
-        <div class="ripple-line"></div>
-        <div class="bottom">
-            <img src="/images/logo-small.png" alt="Impact Stream" />
-            <div class="footer-link"><a href="mailto:hello@impact.stream">hello@impact.stream</a></div>
-        </div>
-    </section>
-</footer>
