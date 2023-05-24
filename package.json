@@ -30,5 +30,6 @@
 	"type": "module",
 	"dependencies": {
 		"@svelte-put/copy": "^2.0.0"
+		"svelte-hero-icons": "^5.0.0"
 	}
 }
