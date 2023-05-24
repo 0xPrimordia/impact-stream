@@ -318,6 +318,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@svelte-put/copy@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "@svelte-put/copy@npm:2.0.0"
+  checksum: 21ef43c1410ffdd23f2d90d1832c659ff3eb8474de7c4e02e16961e6b6e2aff7fc2cbbf1bb8062485489aca7c4cc86f326f92cdcbdfdf4b45040de035c3a4695
+  languageName: node
+  linkType: hard
+
 "@sveltejs/adapter-auto@npm:^2.0.0":
   version: 2.1.0
   resolution: "@sveltejs/adapter-auto@npm:2.1.0"
@@ -1510,6 +1517,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "impact-stream@workspace:."
   dependencies:
+    "@svelte-put/copy": ^2.0.0
     "@sveltejs/adapter-auto": ^2.0.0
     "@sveltejs/kit": ^1.5.0
     "@typescript-eslint/eslint-plugin": ^5.45.0
