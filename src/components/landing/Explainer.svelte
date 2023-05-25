@@ -17,7 +17,7 @@
 			</p>
 			<p>For our purposes in Togo, we are facilitating 100 Togolese to participate in QF by proposing and
 			voting on public goods projects within their communities.</p>
-			<p><a href="https://wtfisqf.com/">>Read more</a></p>
+			<p><a href="https://wtfisqf.com/">{">"} Read more</a></p>
 		</div>
 	</section>
 </div>
