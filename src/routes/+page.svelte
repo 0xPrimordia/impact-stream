@@ -110,11 +110,10 @@
 		background-color: #000;
 		color: #ebf4e6;
 		border: none;
-		padding: 1rem 2rem;
+		padding: 1rem 6rem;
 		border-radius: 10px;
 		font-size: 1.5rem;
 		font-weight: bold;
-		width: 33.3%;
 	}
 	.wrapper p.sub {
 		text-align: center;
