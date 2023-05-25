@@ -49,15 +49,15 @@
 				<div><h3>Kevin</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url()" class="avatar" />
+				<div style="background-image:url(/images/delightfulabyss.png)" class="avatar" />
 				<div><h3>Matt</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url()" class="avatar" />
-				<div><h3>Kevin</h3></div>
+				<div style="background-image:url(/images/captaincrunch.png)" class="avatar" />
+				<div><h3>Kevin C</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url()" class="avatar" />
+				<div style="background-image:url(/images/0xhashbrown.png)" class="avatar" />
 				<div><h3>Rob</h3></div>
 			</div>
 		</div>
@@ -139,6 +139,7 @@
 		width: 8rem;
 		height: 8rem;
 		background: #3e5f72;
+		background-size: 100% auto;
 		border-radius: 4rem;
 		margin: auto;
 		display: block;
