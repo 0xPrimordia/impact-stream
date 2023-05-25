@@ -48,4 +48,15 @@
 		margin-top: 3em;
 		margin-left: 6em;
 	}
+	@media (max-width: 600px) {
+		.content-wrapper section {
+			flex-direction: column;
+		}
+		.about-right {
+			text-align: center;
+		}
+		section .about-right img {
+			display: none;
+		}
+	}
 </style>

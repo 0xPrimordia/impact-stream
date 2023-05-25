@@ -110,7 +110,7 @@
 	}
 	.donate {
 		display: flex;
-		width: 960px;
+		max-width: 960px;
 		margin: auto;
 		padding: 4em 0;
 	}
@@ -167,4 +167,25 @@
 	.footer-cta .button-wrap {
 		margin-left: auto;
 	}
+    @media (max-width: 950px) {
+        .donate {
+            padding: 2rem;
+        }
+    }
+    @media (max-width: 600px) {
+        .footer-cta .copy {
+            font-size: 1rem;
+        }
+        .donate {
+            flex-direction: column;
+        }
+        .donate .copy {
+            font-size: 1rem;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .donate .buttons {
+            margin-left: 0;
+        }
+    }
 </style>

@@ -95,4 +95,15 @@
 	p span a:hover {
 		border-bottom: 1px solid #3e5f72;
 	}
+	@media (max-width: 600px) {
+		.content-wrapper section {
+			flex-direction: column;
+		}
+		div.value-prop-left {
+			text-align: center;
+		}
+		section div img {
+			margin: 0;
+		}
+	}
 </style>
