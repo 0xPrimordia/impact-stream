@@ -43,7 +43,6 @@
 	}
 	section .about-right {
 		display: flex;
-		flex-direction: column;
 	}
 	section .about-right img {
 		margin-top: 3em;
