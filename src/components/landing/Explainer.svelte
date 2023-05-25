@@ -15,9 +15,9 @@
 				individuals to influence resource allocation, ultimately fostering a more inclusive and
 				democratic funding ecosystem.
 			</p>
-			For our purposes in Togo, we are facilitating 100 Togolese to participate in QF by proposing and
-			voting on public goods projects within their communities.
-			<a href="https://wtfisqf.com/">>Read more</a>
+			<p>For our purposes in Togo, we are facilitating 100 Togolese to participate in QF by proposing and
+			voting on public goods projects within their communities.</p>
+			<p><a href="https://wtfisqf.com/">>Read more</a></p>
 		</div>
 	</section>
 </div>
@@ -47,8 +47,8 @@
 		margin-top: 2em;
 	}
 	section .value-prop-left img {
-		margin-top: 3em;
-		margin-right: 6em;
+		margin-top: 4em;
+		margin-right: 4em;
 	}
 	section div a {
 		text-decoration: none;
