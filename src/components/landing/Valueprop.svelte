@@ -23,7 +23,7 @@
 					facing, signal to donors which proposals are most desired, and then leverage local
 					laborers and vendors to build and maintain the public goods that are funded.
 				</p>
-				<button type="button" disabled>Coming Soon</button>
+				
 			</div>
 		</section>
 	</div>
@@ -89,7 +89,7 @@
 
 	p span a {
 		text-decoration: none;
-		color: #3e5f72;
+		color: #cbe5f1;
 	}
 
 	p span a:hover {
