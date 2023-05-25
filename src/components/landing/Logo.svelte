@@ -8,5 +8,6 @@
 	.logo {
 		display: inline-block;
 		padding: 1rem 1rem;
+		max-width: 200px;
 	}
 </style>
