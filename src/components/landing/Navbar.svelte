@@ -8,11 +8,11 @@
 	<Logo src="images/impact-stream-logo.svg" />
 	<ul class={"nav-links" + (open ? ' hamburgle':'')}>
 		<li class="nav-item"><a href="/">Home</a></li>
-		<li class="nav-item"><a href="/app">App</a></li>
-		<li class="nav-item"><a href="/qf">Quadratic Funding</a></li>
-		<li class="nav-item"><a href="/team">Team</a></li>
-		<li class="nav-item"><a href="/partners">Partners</a></li>
-		<li class="nav-item"><a href="/donate">Donate</a></li>
+		<li class="nav-item"><a href="/#app">App</a></li>
+		<li class="nav-item"><a href="/#qf">Quadratic Funding</a></li>
+		<li class="nav-item"><a href="/#team">Team</a></li>
+		<li class="nav-item"><a href="/#partners">Partners</a></li>
+		<li class="nav-item"><a href="/#Donate">Donate</a></li>
 	</ul>
 	<span on:click={() => (open ? open=false:open=true)} on:keydown class="hamburgler">
 		<Icon size="2rem" src={open ? XMark : Bars2} />

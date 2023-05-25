@@ -21,7 +21,7 @@
 <About />
 <Explainer />
 <div class="wrapper">
-	<section>
+	<section id="team">
 		<h1>Team</h1>
 		<div class="team">
 			<div class="member">
@@ -64,7 +64,7 @@
 	</section>
 </div>
 <div class="wrapper">
-	<section>
+	<section id="partners">
 		<h1>Partners</h1>
 		<div class="partner-logos">
 			<Logo src="images/ilad-logo.svg" />

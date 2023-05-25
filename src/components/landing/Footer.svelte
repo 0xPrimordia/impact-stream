@@ -132,6 +132,7 @@
 		border: none;
 		font-weight: bold;
 		padding: 1em 3em;
+        line-height: 2rem;
 	}
 	.buttons button .copy-icon {
 		width: 1.5em;
