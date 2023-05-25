@@ -1,7 +1,7 @@
 <div>
 	<div class="ripple-border top" />
 	<div class="content-wrapper">
-		<section>
+		<section id="app">
 			<div class="value-prop-left">
 				<img src="/images/phone.svg" alt="phone with voting options" />
 			</div>

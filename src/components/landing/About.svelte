@@ -1,5 +1,5 @@
 <div class="content-wrapper">
-	<section>
+	<section id="#about">
 		<div class="about-left">
 			<h1>About Impact Stream</h1>
 			<p>
