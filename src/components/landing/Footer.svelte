@@ -17,7 +17,7 @@
 	<div class="ripple-line-blue" />
 	<div id="Donate" class="donate">
 		<div class="copy">
-			<span>Cras fringilla dolor vitae justo,<br /> aliquet ultricies tortor aliquam.</span>
+			<span>Your donation funds the building of public goods and IRL impact around the world.</span>
 		</div>
 		<div class="buttons">
 			<button on:click={handleEnsClick} use:copy
@@ -28,20 +28,13 @@
 				{:else}<img src="/images/copy-icon.svg" alt="Copy icon" class="copy-icon" />
 				{/if}</button
 			>
-			<button on:click={handleAddressClick} use:copy
-				>0xc45...1FB48
-				{#if addressIsClicked}
-					<img src="/images/checkmark-icon.svg" alt="Check icon" class="check-icon" />
-				{:else}<img src="/images/copy-icon.svg" alt="Copy icon" class="copy-icon" />
-				{/if}
-			</button>
 		</div>
 	</div>
 	<div class="ripple-border top" />
 	<section>
 		<div class="footer-cta">
 			<div class="copy">
-				<span>Join our Discord</span>
+				<span>Join our community on Discord</span>
 			</div>
 			<div class="button-wrap">
 				<button on:click={() => (window.location.href="https://discord.gg/we344V4QP7")}>Join Now</button>

@@ -4,7 +4,7 @@
 			<img src="/images/vote.svg" alt="phone with voting options" />
 		</div>
 		<div class="value-prop-right">
-			<h1>Quadratic Voting Explained</h1>
+			<h1>What is Quadratic Funding?</h1>
 			<p>
 				Quadratic Funding (QF) is a novel mechanism for allocating resources in a decentralized
 				manner, primarily used in the context of public goods funding. It aims to distribute funds
