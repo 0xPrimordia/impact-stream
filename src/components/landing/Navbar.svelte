@@ -1,20 +1,21 @@
 <script lang="ts">
 	import Logo from './Logo.svelte';
-	import { Icon, Bars2, XMark } from "svelte-hero-icons"
-	let open:Boolean;
+	import { Icon, Bars2, XMark } from 'svelte-hero-icons';
+	let open: Boolean;
 </script>
 
 <nav class="main-nav">
 	<Logo src="images/impact-stream-logo.svg" />
-	<ul class={"nav-links" + (open ? ' hamburgle':'')}>
+	<ul class={'nav-links' + (open ? ' hamburgle' : '')}>
 		<li class="nav-item"><a href="/">Home</a></li>
 		<li class="nav-item"><a href="/#app">App</a></li>
 		<li class="nav-item"><a href="/#qf">Quadratic Funding</a></li>
 		<li class="nav-item"><a href="/#team">Team</a></li>
 		<li class="nav-item"><a href="/#partners">Partners</a></li>
 		<li class="nav-item"><a href="/#Donate">Donate</a></li>
+		<li class="nav-item"><a href="https://discord.gg/we344V4QP7" target="_blank">Discord</a></li>
 	</ul>
-	<span on:click={() => (open ? open=false:open=true)} on:keydown class="hamburgler">
+	<span on:click={() => (open ? (open = false) : (open = true))} on:keydown class="hamburgler">
 		<Icon size="2rem" src={open ? XMark : Bars2} />
 	</span>
 </nav>
@@ -48,7 +49,7 @@
 	}
 	span.hamburgler {
 		display: none;
-		margin-top:1.5rem;
+		margin-top: 1.5rem;
 		margin-right: 0.5rem;
 		margin-left: auto;
 		z-index: 555;
