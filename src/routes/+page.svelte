@@ -25,7 +25,7 @@
 		<h1>Team</h1>
 		<div class="team">
 			<div class="member">
-				<div class="avatar" />
+				<a target="_blank" href="https://www.linkedin.com/in/michelle-schubert-92b259158"><div style="background-image:url(/images/alidra.jpg)" class="avatar" /></a>
 				<div><h3>Alidra</h3></div>
 			</div>
 			<div class="member">
@@ -45,19 +45,19 @@
 				<div><h3>Angela</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/kevin.png)" class="avatar" />
+				<a href="#" target="_blank"><div style="background-image:url(/images/kevin.png)" class="avatar" /></a>
 				<div><h3>Kevin</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/delightfulabyss.png)" class="avatar" />
+				<a href="https://bento.me/delightfulabyss" target="_blank"><div style="background-image:url(/images/delightfulabyss.png)" class="avatar" /></a>
 				<div><h3>Matt</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/captaincrunch.png)" class="avatar" />
+				<a href="https://bento.me/captaincrunch" target="_blank"><div style="background-image:url(/images/captaincrunch.png)" class="avatar" /></a>
 				<div><h3>Kevin C</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/0xhashbrown.png)" class="avatar" />
+				<a href="https://bento.me/0xhashbrown" target="_blank"><div style="background-image:url(/images/0xhashbrown.png)" class="avatar" /></a>
 				<div><h3>Rob</h3></div>
 			</div>
 		</div>
@@ -135,7 +135,7 @@
 		display: block;
 		text-align: center;
 	}
-	div.team .member > div.avatar {
+	div.team .member div.avatar {
 		width: 8rem;
 		height: 8rem;
 		background: #3e5f72;
