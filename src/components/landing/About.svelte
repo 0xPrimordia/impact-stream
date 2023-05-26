@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Logo from './Logo.svelte';
+</script>
+
 <div class="content-wrapper">
 	<section id="#about">
 		<div class="about-left">
@@ -9,15 +13,18 @@
 				level-up NGOs into web3; helping them leverage on-chain capabilities and operate
 				transparently.
 			</p>
-			<p>When you give money to a traditional non-profit, you rarely have a way of knowing where exactly
-			your money goes. You don’t how much goes to overhead and/or how much goes to the cause you care
-			about. With Impact Stream, we encourage as many transactions as possible to occur on-chain to promote
-			transparency. We envision this method becoming the gold standard for ethical non-profits around
-			the globe. Our hope is to partner with digital communities - and especially web3 communities -
-			who want to make an impact for the good of our planet and the flourishing of humanity.</p>
+			<p>
+				When you give money to a traditional non-profit, you rarely have a way of knowing where
+				exactly your money goes. You don’t how much goes to overhead and/or how much goes to the
+				cause you care about. With Impact Stream, we encourage as many transactions as possible to
+				occur on-chain to promote transparency. We envision this method becoming the gold standard
+				for ethical non-profits around the globe. Our hope is to partner with digital communities -
+				and especially web3 communities - who want to make an impact for the good of our planet and
+				the flourishing of humanity.
+			</p>
 		</div>
 		<div class="about-right">
-			<img src="images/vote.svg" alt="Image tbd" />
+			<Logo src="images/impact-stream-logo.svg" />
 		</div>
 	</section>
 </div>

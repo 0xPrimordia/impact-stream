@@ -14,7 +14,7 @@
 	<section class="section-hero">
 		<h1 id="hero-heading">{data.hero.title}</h1>
 		<p class="sub">{data.hero.sub}</p>
-		<button class="anchor" on:click={() => (window.location.href="/#Donate")}>Donate</button>
+		<button class="anchor" on:click={() => (window.location.href = '/#Donate')}>Donate</button>
 	</section>
 </div>
 <Valueprop />
@@ -25,39 +25,57 @@
 		<h1>Team</h1>
 		<div class="team">
 			<div class="member">
-				<a target="_blank" href="https://www.linkedin.com/in/michelle-schubert-92b259158"><div style="background-image:url(/images/alidra.jpg)" class="avatar" /></a>
+				<a href="https://twitter.com/alidra_xyz" target="_blank"
+					><div style="background-image:url(/images/alidra.jpeg)" class="avatar" /></a
+				>
 				<div><h3>Alidra</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/will.png)" class="avatar" />
+				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
+					><div style="background-image:url(/images/will.jpg)" class="avatar" /></a
+				>
 				<div><h3>Will</h3></div>
 			</div>
 			<div class="member">
-				<div class="avatar" />
+				<a href="" target="_blank"
+					><div style="background-image:url(/images/laté.png)" class="avatar" /></a
+				>
 				<div><h3>Laté</h3></div>
 			</div>
 			<div class="member">
-				<div style="background-image:url(/images/zakk.png)" class="avatar" />
+				<a href="https://twitter.com/0xZakk" target="_blank"
+					><div style="background-image:url(/images/zakk.png)" class="avatar" /></a
+				>
 				<div><h3>Zakk</h3></div>
 			</div>
 			<div class="member">
-				<div class="avatar" />
+				<a href="https://www.linkedin.com/in/angela-angelovska-wilson-38600a1/" target="_blank"
+					><div style="background-image:url(/images/angela.jpg)" class="avatar" /></a
+				>
 				<div><h3>Angela</h3></div>
 			</div>
 			<div class="member">
-				<a href="#" target="_blank"><div style="background-image:url(/images/kevin.png)" class="avatar" /></a>
+				<a href="https://twitter.com/owocki" target="_blank"
+					><div style="background-image:url(/images/kevin.png)" class="avatar" /></a
+				>
 				<div><h3>Kevin</h3></div>
 			</div>
 			<div class="member">
-				<a href="https://bento.me/delightfulabyss" target="_blank"><div style="background-image:url(/images/delightfulabyss.png)" class="avatar" /></a>
+				<a href="https://delightfulabyss.xyz" target="_blank"
+					><div style="background-image:url(/images/matt.jpg)" class="avatar" /></a
+				>
 				<div><h3>Matt</h3></div>
 			</div>
 			<div class="member">
-				<a href="https://bento.me/captaincrunch" target="_blank"><div style="background-image:url(/images/captaincrunch.png)" class="avatar" /></a>
+				<a href="https://bento.me/captaincrunch" target="_blank"
+					><div style="background-image:url(/images/captaincrunch.png)" class="avatar" /></a
+				>
 				<div><h3>Kevin C</h3></div>
 			</div>
 			<div class="member">
-				<a href="https://bento.me/0xhashbrown" target="_blank"><div style="background-image:url(/images/0xhashbrown.png)" class="avatar" /></a>
+				<a href="https://bento.me/0xhashbrown" target="_blank"
+					><div style="background-image:url(/images/0xhashbrown.png)" class="avatar" /></a
+				>
 				<div><h3>Rob</h3></div>
 			</div>
 		</div>
@@ -145,7 +163,6 @@
 		display: block;
 	}
 
-
 	div.partner-logos {
 		display: flex;
 		flex-wrap: wrap;
@@ -163,6 +180,5 @@
 		.wrapper section {
 			padding: 2rem;
 		}
-
 	}
 </style>
