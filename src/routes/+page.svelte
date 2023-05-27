@@ -181,4 +181,13 @@
 			padding: 2rem;
 		}
 	}
+
+	@media (max-width: 376px) {
+		.wrapper section h1 {
+			font-size: 1.9rem;
+		}
+		.wrapper section p {
+			font-size: 1.25rem;
+		}
+	}
 </style>
