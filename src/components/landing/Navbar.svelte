@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Logo from './Logo.svelte';
-	import { Icon, Bars2, XMark } from 'svelte-hero-icons';
+	import { Icon, Bars3, XMark } from 'svelte-hero-icons';
 	let open: Boolean;
 </script>
 
@@ -16,7 +16,7 @@
 		<li class="nav-item"><a href="https://discord.gg/we344V4QP7" target="_blank">Discord</a></li>
 	</ul>
 	<span on:click={() => (open ? (open = false) : (open = true))} on:keydown class="hamburgler">
-		<Icon size="2rem" src={open ? XMark : Bars2} />
+		<Icon size="2rem" src={open ? XMark : Bars3} />
 	</span>
 </nav>
 
