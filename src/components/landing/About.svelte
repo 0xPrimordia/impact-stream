@@ -24,7 +24,7 @@
 			</p>
 		</div>
 		<div class="about-right">
-			<Logo src="images/impact-stream-logo.svg" />
+			<Logo src="images/logomark-dark.svg" />
 		</div>
 	</section>
 </div>
@@ -50,6 +50,7 @@
 	}
 	section .about-right {
 		display: flex;
+		padding-left: 2rem;
 	}
 	section .about-right img {
 		margin-top: 3em;
