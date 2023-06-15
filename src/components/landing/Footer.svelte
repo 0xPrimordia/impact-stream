@@ -28,6 +28,7 @@
 				{:else}<img src="/images/copy-icon.svg" alt="Copy icon" class="copy-icon" />
 				{/if}</button
 			>
+			<span>I you don't have a crypto wallet, <a target="_blank" href="https://app.ribbon.giving/r/campaigns/camp_OAZVmcEnj0bnPVtS">donate at this link</a>.</span>
 		</div>
 	</div>
 	<div class="ripple-border top" />
