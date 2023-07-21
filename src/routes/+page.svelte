@@ -6,7 +6,9 @@
 	import Explainer from '../components/landing/Explainer.svelte';
 	import About from '../components/landing/About.svelte';
 
+
 	export let data;
+
 </script>
 
 <Navbar />
