@@ -5,8 +5,6 @@
 	import Footer from '../components/landing/Footer.svelte';
 	import Explainer from '../components/landing/Explainer.svelte';
 	import About from '../components/landing/About.svelte';
-
-
 </script>
 
 
