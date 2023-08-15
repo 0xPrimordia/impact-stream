@@ -6,9 +6,7 @@
 	import Explainer from '../components/landing/Explainer.svelte';
 	import About from '../components/landing/About.svelte';
 
-
 	export let data;
-
 </script>
 
 <Navbar />
@@ -79,6 +77,13 @@
 					><div style="background-image:url(/images/0xhashbrown.png)" class="avatar" /></a
 				>
 				<div><h3>Rob</h3></div>
+			</div>
+
+			<div class="member">
+				<a href="https://twitter.com/sejal_rekhan" target="_blank"
+					><div style="background-image:url(/images/sejal.jpeg)" class="avatar" /></a
+				>
+				<div><h3>Sejal</h3></div>
 			</div>
 		</div>
 	</section>
