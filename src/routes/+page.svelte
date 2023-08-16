@@ -78,12 +78,17 @@
 				>
 				<div><h3>Rob</h3></div>
 			</div>
-
 			<div class="member">
 				<a href="https://twitter.com/sejal_rekhan" target="_blank"
 					><div style="background-image:url(/images/sejal.jpeg)" class="avatar" /></a
 				>
 				<div><h3>Sejal</h3></div>
+			</div>
+			<div class="member">
+				<a href="https://www.linkedin.com/in/roy-nyaga-andre/" target="_blank"
+					><div style="background-image:url(/images/roy.jpg)" class="avatar" /></a
+				>
+				<div><h3>Roy</h3></div>
 			</div>
 		</div>
 	</section>
