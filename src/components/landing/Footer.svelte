@@ -15,7 +15,7 @@
 
 <footer class="footer">
 	<div class="ripple-line-blue" />
-	<div id="Donate" class="donate">
+	<div id="Donate" class="donate">		
 		<div class="copy">
 			<span>Your donation funds the building of public goods and IRL impact around the world.</span>
 		</div>
@@ -28,8 +28,32 @@
 				{:else}<img src="/images/copy-icon.svg" alt="Copy icon" class="copy-icon" />
 				{/if}</button
 			>
-			<span>If you don't have a crypto wallet, <a target="_blank" href="https://app.ribbon.giving/r/campaigns/camp_OAZVmcEnj0bnPVtS">donate at this link</a>.</span>
+			<!--<span>If you don't have a crypto wallet, <a target="_blank" href="https://app.ribbon.giving/r/campaigns/camp_OAZVmcEnj0bnPVtS">donate at this link</a>.</span> -->
 		</div>
+	</div>	
+
+	<div style="text-align: center; margin-bottom: 50px;">
+		<div style="display: inline-block; margin: 0 auto;">
+							
+			<script>
+									var link = document.createElement('link');
+										link.rel="stylesheet"
+										link.href = "https://ribbon-public-bucket.s3.amazonaws.com/donation-embed/css/ribbon-donation-embed.css";
+										document.head.appendChild(link);
+								</script>
+								
+			<div class="ribbon-donation-embed-container">
+								
+			<ribbon-donation-embed
+									id="ribbon-donation-embed"
+									form_uuid="chem_gCU3Ev2HmjDkNLDm"
+									dialog="false"
+								/>
+								
+			<script src="https://ribbon-public-bucket.s3.amazonaws.com/donation-embed/js/ribbon-donation-embed.js"></script>
+						
+		</div>   
+	</div>
 	</div>
 	<div class="ripple-border top" />
 	<section>
