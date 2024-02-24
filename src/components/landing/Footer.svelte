@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { copy, type CopyDetail } from '@svelte-put/copy';
 	import SocialIcons from '@rodneylab/svelte-social-icons';
+	import { onMount } from 'svelte';
+
 	let ensButton: HTMLButtonElement;
 	let addressButton: HTMLButtonElement;
 	let ensIsClicked = false;
@@ -11,6 +13,18 @@
 	const handleAddressClick = () => {
 		addressIsClicked = !addressIsClicked;
 	};
+
+	onMount(() => {
+		let script = document.createElement('script');
+		script.src = "https://ribbon-public-bucket.s3.amazonaws.com/donation-embed/js/ribbon-donation-embed.js";
+		document.body.appendChild(script);
+
+		var link = document.createElement('link');
+		link.rel = "stylesheet";
+		link.href = "https://ribbon-public-bucket.s3.amazonaws.com/donation-embed/css/ribbon-donation-embed.css";
+		document.head.appendChild(link);
+	});
+
 </script>
 
 <footer class="footer">
@@ -33,27 +47,17 @@
 	</div>	
 
 	<div style="text-align: center; margin-bottom: 50px;">
-		<div style="display: inline-block; margin: 0 auto;">
-							
-			<script>
-									var link = document.createElement('link');
-										link.rel="stylesheet"
-										link.href = "https://ribbon-public-bucket.s3.amazonaws.com/donation-embed/css/ribbon-donation-embed.css";
-										document.head.appendChild(link);
-								</script>
-								
+		<div style="display: inline-block; margin: 0 auto;">						
 			<div class="ribbon-donation-embed-container">
 								
-			<ribbon-donation-embed
-									id="ribbon-donation-embed"
-									form_uuid="chem_gCU3Ev2HmjDkNLDm"
-									dialog="false"
-								/>
-								
-			<script src="https://ribbon-public-bucket.s3.amazonaws.com/donation-embed/js/ribbon-donation-embed.js"></script>
-						
-		</div>   
-	</div>
+				<ribbon-donation-embed
+										id="ribbon-donation-embed"
+										form_uuid="chem_gCU3Ev2HmjDkNLDm"
+										dialog="false"
+									/>								
+							
+		  </div>   
+	  </div>
 	</div>
 	<div class="ripple-border top" />
 	<section>
