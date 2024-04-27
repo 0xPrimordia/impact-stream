@@ -8,10 +8,10 @@
 			<h1>About Impact Stream</h1>
 			<p>
 				Overall, our mission is to create transparent, on-chain, and accountable impact between
-				digital and IRL communities. Blockchains have ushered in new technology that allows anyone
+				digital and IRL communities. We also want to "decentralize" international development and poverty alleviation by allowing local people to solve local problems. Blockchains have ushered in new technology that allows anyone
 				to observe verifiable transactions between known or anonymous people. Our goal is to
-				level-up NGOs into web3; helping them leverage on-chain capabilities and operate
-				transparently.
+				level-up NGOs into web3; helping them leverage on-chain capabilities, operate
+				transparently, and empower the people they serve to generate local, sustainable development.
 			</p>
 			<p>
 				When you give money to a traditional non-profit, you rarely have a way of knowing where
@@ -67,4 +67,7 @@
 			display: none;
 		}
 	}
+	section h1 {
+		margin-bottom: 5px;
+	}	
 </style>

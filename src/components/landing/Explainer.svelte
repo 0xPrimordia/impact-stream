@@ -4,20 +4,10 @@
 			<img src="/images/vote.svg" alt="phone with voting options" />
 		</div>
 		<div class="value-prop-right">
-			<h1>What is Quadratic Funding?</h1>
+			<h1>What is Quadratic Voting?</h1>
 			<p>
-				Quadratic Funding (QF) is a novel mechanism for allocating resources in a decentralized
-				manner, primarily used in the context of public goods funding. It aims to distribute funds
-				based both on the principle of "one person, one vote" and the intensity of individual
-				preferences. By leveraging a quadratic formula, quadratic funding provides matching
-				contributions to projects or initiatives based on the collective support they receive from a
-				diverse pool of contributors. This approach encourages broad participation and empowers
-				individuals to influence resource allocation, ultimately fostering a more inclusive and
-				democratic funding ecosystem.
+				Quadratic Voting (QV) is a democratic decision-making system designed to more accurately reflect the strength of individuals' preferences on various issues compared to traditional voting methods. Under this system, voters are allocated a fixed number of credits, which they can use to cast votes on a range of proposals. The cost of each additional vote for a particular option increases quadratically, meaning the second vote costs more credits than the first, the third vote even more, and so on. This mechanism encourages voters to truly weigh their preferences, allowing them to express not just which options they favor but how strongly they feel about them. Quadratic Voting aims to minimize the influence of majority power while amplifying minority voices, providing a more nuanced and equitable assessment of collective priorities.
 			</p>
-			<p>For our purposes in Togo, we are facilitating 100 Togolese to participate in QF by proposing and
-			voting on public goods projects within their communities.</p>
-			<p><a href="https://wtfisqf.com/">{">"} Read more</a></p>
 		</div>
 	</section>
 </div>
@@ -71,4 +61,7 @@
 			text-align: center;
 		}
 	}
+	section h1 {
+		margin-bottom: 5px;
+	}		
 </style>
