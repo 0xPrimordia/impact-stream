@@ -1,5 +1,5 @@
 <div class="content-wrapper">
-	<section id="qf">
+	<section id="qv">
 		<div class="value-prop-left">
 			<img src="/images/vote.svg" alt="phone with voting options" />
 		</div>
