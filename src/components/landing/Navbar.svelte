@@ -9,7 +9,7 @@
 	<ul class={'nav-links' + (open ? ' hamburgle' : '')}>
 		<li class="nav-item"><a href="/">Home</a></li>
 		<li class="nav-item"><a href="/#app">App</a></li>
-		<li class="nav-item"><a href="/#qf">Quadratic Funding</a></li>
+		<li class="nav-item"><a href="/#qf">Quadratic Voting</a></li>
 		<li class="nav-item"><a href="/#team">Team</a></li>
 		<li class="nav-item"><a href="/#partners">Partners</a></li>
 		<li class="nav-item"><a href="/#Donate">Donate</a></li>
