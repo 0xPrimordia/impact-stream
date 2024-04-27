@@ -30,24 +30,51 @@
 				>
 				<div><h3>Alidra</h3></div>
 			</div>
-			<div class="member">
-				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
-					><div style="background-image:url(/images/will.jpg)" class="avatar" /></a
-				>
-				<div><h3>Will</h3></div>
-			</div>
+
 			<div class="member">
 				<a href="" target="_blank"
 					><div style="background-image:url(/images/laté.png)" class="avatar" /></a
 				>
 				<div><h3>Laté</h3></div>
 			</div>
+
+			<div class="member">
+				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
+					><div style="background-image:url(/images/will-little.jpg)" class="avatar" /></a
+				>
+				<div><h3>Will</h3></div>
+			</div>			
+
+			<div class="member">
+				<a href="https://obertal.com/leavenworth-wa-hotel-owner/" target="_blank"
+					><div style="background-image:url(/images/hans.png)" class="avatar" /></a
+				>
+				<div><h3>Hans</h3></div>
+			</div>
+
+			<div class="member">
+				<a href="" target="_blank"
+					><div style="background-image:url(/images/azaria.png)" class="avatar" /></a
+				>
+				<div><h3>Azaria</h3></div>
+			</div>
+
+			<div class="member">
+				<a href="" target="_blank"
+					><div style="background-image:url(/images/jacques.png)" class="avatar" /></a
+				>
+				<div><h3>Jacques</h3></div>
+			</div>
+
 			<div class="member">
 				<a href="https://twitter.com/0xZakk" target="_blank"
 					><div style="background-image:url(/images/zakk.png)" class="avatar" /></a
 				>
 				<div><h3>Zakk</h3></div>
 			</div>
+
+
+
 			<div class="member">
 				<a href="https://www.linkedin.com/in/angela-angelovska-wilson-38600a1/" target="_blank"
 					><div style="background-image:url(/images/angela.jpg)" class="avatar" /></a
@@ -55,10 +82,16 @@
 				<div><h3>Angela</h3></div>
 			</div>
 			<div class="member">
+				<a href="https://www.linkedin.com/in/roy-nyaga-andre/" target="_blank"
+					><div style="background-image:url(/images/roy.jpg)" class="avatar" /></a
+				>
+				<div><h3>Roy</h3></div>
+			</div>			
+			<div class="member">
 				<a href="https://twitter.com/owocki" target="_blank"
 					><div style="background-image:url(/images/kevin.png)" class="avatar" /></a
 				>
-				<div><h3>Kevin</h3></div>
+				<div><h3>Kevin O</h3></div>
 			</div>
 			<div class="member">
 				<a href="https://delightfulabyss.xyz" target="_blank"
@@ -73,23 +106,12 @@
 				<div><h3>Kevin C</h3></div>
 			</div>
 			<div class="member">
-				<a href="https://bento.me/0xhashbrown" target="_blank"
-					><div style="background-image:url(/images/0xhashbrown.png)" class="avatar" /></a
-				>
-				<div><h3>Rob</h3></div>
-			</div>
-			<div class="member">
 				<a href="https://twitter.com/sejal_rekhan" target="_blank"
 					><div style="background-image:url(/images/sejal.jpeg)" class="avatar" /></a
 				>
 				<div><h3>Sejal</h3></div>
 			</div>
-			<div class="member">
-				<a href="https://www.linkedin.com/in/roy-nyaga-andre/" target="_blank"
-					><div style="background-image:url(/images/roy.jpg)" class="avatar" /></a
-				>
-				<div><h3>Roy</h3></div>
-			</div>
+
 		</div>
 	</section>
 </div>
