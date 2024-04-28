@@ -39,18 +39,11 @@
 			</div>
 
 			<div class="member">
-				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
-					><div style="background-image:url(/images/will-little.jpg)" class="avatar" /></a
+				<a href="https://www.linkedin.com/in/itsmarkschubert/" target="_blank"
+					><div style="background-image:url(/images/mark.jpeg)" class="avatar" /></a
 				>
-				<div><h3>Will</h3></div>
-			</div>			
-
-			<div class="member">
-				<a href="https://obertal.com/leavenworth-wa-hotel-owner/" target="_blank"
-					><div style="background-image:url(/images/hans.png)" class="avatar" /></a
-				>
-				<div><h3>Hans</h3></div>
-			</div>
+				<div><h3>Mark</h3></div>
+			</div>	
 
 			<div class="member">
 				<a href="" target="_blank"
@@ -67,13 +60,24 @@
 			</div>
 
 			<div class="member">
+				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
+					><div style="background-image:url(/images/will-little.jpg)" class="avatar" /></a
+				>
+				<div><h3>Will</h3></div>
+			</div>	
+			<div class="member">
+				<a href="https://obertal.com/leavenworth-wa-hotel-owner/" target="_blank"
+					><div style="background-image:url(/images/hans.png)" class="avatar" /></a
+				>
+				<div><h3>Hans</h3></div>
+			</div>
+
+			<div class="member">
 				<a href="https://twitter.com/0xZakk" target="_blank"
 					><div style="background-image:url(/images/zakk.png)" class="avatar" /></a
 				>
 				<div><h3>Zakk</h3></div>
 			</div>
-
-
 
 			<div class="member">
 				<a href="https://www.linkedin.com/in/angela-angelovska-wilson-38600a1/" target="_blank"
