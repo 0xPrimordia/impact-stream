@@ -106,6 +106,10 @@
 					Even more purchased equipment 
 				</div>
 
+				<p>
+				  <img src="/images/4_2.jpeg" alt="Textile Equipment" class="responsive-image"/>
+			  </p>					
+
 				<h1>Community Library</h1>
 
 				<p>Cumulative Vote Weight: 17.10</p>
@@ -152,13 +156,13 @@
 				</div>		
 				
 				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
-					<iframe src="https://www.youtube.com/embed/X3Bagpz9Hek?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+					<iframe src="https://www.youtube.com/embed/zk65Fg65OWs?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 				</div>			
 				
 				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
 					<iframe src="https://www.youtube.com/embed/CrKyQaiGak4?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-				</div>					
-				
+				</div>								
+
 				<h1>New Equipment for an Elementary School
 				</h1>
 
