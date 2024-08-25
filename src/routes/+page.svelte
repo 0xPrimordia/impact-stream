@@ -119,6 +119,11 @@
 		</div>
 	</section>
 </div>
+
+<div class="video-container" style="margin-bottom: -75px">
+	<iframe src="https://www.youtube.com/embed/FSXgJ3airoU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <div class="wrapper">
 	<section id="partners">
 		<h1>Partners</h1>
@@ -132,6 +137,7 @@
 		</div>
 	</section>
 </div>
+
 <Footer />
 
 <style>
@@ -229,4 +235,22 @@
 			font-size: 1.25rem;
 		}
 	}
+
+	.video-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+        max-width: 800px; /* Set your desired max-width here */
+        margin: 0 auto 15px auto; /* Center the video on the page */
+    }
+
+	.video-container iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 75%;
+	}
+
 </style>

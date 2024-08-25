@@ -8,6 +8,7 @@
 	<Logo src="images/impact-stream-logo.svg" />
 	<ul class={'nav-links' + (open ? ' hamburgle' : '')}>
 		<li class="nav-item"><a href="/">Home</a></li>
+		<li class="nav-item"><a href="/quirkies">Quirkies</a></li>
 		<li class="nav-item"><a href="/#app">App</a></li>
 		<li class="nav-item"><a href="/#qv">Quadratic Voting</a></li>
 		<li class="nav-item"><a href="/#team">Team</a></li>
