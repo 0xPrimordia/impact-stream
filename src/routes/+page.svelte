@@ -128,6 +128,7 @@
 			<Logo src="images/prota-ventures-logo.svg" />
 			<Logo src="images/gitcoin-logo.svg" />
 			<Logo src="images/primordia-logo.svg" />
+			<Logo src="images/cfx-black.svg" />			
 		</div>
 	</section>
 </div>
