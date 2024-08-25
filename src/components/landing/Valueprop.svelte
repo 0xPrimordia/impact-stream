@@ -8,7 +8,7 @@
 			<div class="value-prop-right">
 				<h1>Pilot Round: On-Chain Quadratic Voting and Funding Pool for Togo, West Africa</h1>
 				<p>
-					<em>Updated August 24, 2024</em>
+					<em>Updated August 25, 2024</em>
 				</p>
 
 				<p>
@@ -49,7 +49,15 @@
 
 				<p>Through Laurent's leadership, plans are underway to establish an educational center aimed at equipping local adults with essential technology skills. Recognizing the growing need for tech proficiency as the regional economy evolves, this initiative will provide targeted training to help older adults secure tech-related jobs and continue their education from home, empowering them to meet the demands of the modern workplace.</p>
 
-				<p><em>FYI - we are still working on the subtitles for the below video updates. Stay tuned!</em></p>
+				<p><strong>Regarding the video updates below</strong> (we are still working on the subtitle translations), one of our staff members in Togo - Jacques - wrote: </p>
+
+				<p>Here is, in summary, what is said in the videos:</p>
+
+				<p>Laurent asks the question "What do you do in life?" to some students with whom he has worked.</p>
+
+				<p>⁠⁠The 1st says that he is a welder-smasher; the 2nd that he is a mason and the 3rd says that she is a merchant.</p>
+
+				<p>The advantages of their learning at Laurent’s center: they had the chance to learn to speak French thanks to the center; write quotes to customers who could not speak EWE, thus avoiding the cheating of anybody who was going to help them; discuss with the children in French at home etc... In short, they are grateful for the creation of this center that helps them so much.</p>
 
 			<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
 					<iframe src="https://www.youtube.com/embed/V_PeZK8qWsA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
@@ -121,11 +129,35 @@
 			  </p>
 
 				<div class="image-caption">
-					Future site of the solar-powered well which will provide clean water and power for the surrounding villages.
+					 Site of the solar-powered well which provides clean water and power for the surrounding villages.
 				</div>
+
+				<p>
+				  <img src="/images/4_1.jpeg" alt="Well" class="responsive-image"/>
+			  </p>				
+
+				<div class="image-caption">
+					At the start of breaking ground
+			 </div>				
 
 				<p>The community has chosen to tackle the pressing issue of water access through a sustainable solution led by Jacques. A new project will introduce a water well equipped with a solar pump, designed to provide reliable and clean water to a local school and the surrounding village communities that currently rely on unreliable and unsanitary sources. This project will drastically improve the health of many individuals by reducing the incidence of waterborne diseases and other issues related to unsafe water.
 				</p>	
+
+				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+					<iframe src="https://www.youtube.com/embed/g9anj-YpHW8?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+				</div>
+
+				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+					<iframe src="https://www.youtube.com/embed/_bGYlnGL-Xc?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+				</div>		
+				
+				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+					<iframe src="https://www.youtube.com/embed/X3Bagpz9Hek?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+				</div>			
+				
+				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+					<iframe src="https://www.youtube.com/embed/CrKyQaiGak4?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+				</div>					
 				
 				<h1>New Equipment for an Elementary School
 				</h1>
@@ -143,6 +175,10 @@
 				<p>Led by Kodjo Dodzi, this project focuses on updating the equipment at CS La Citadelle, a private elementary school. By improving the school's facilities, this project aims to enhance the educational environment for both teachers and students, enabling more effective teaching and learning experiences. This support is crucial for empowering young teachers who are beginning their careers and striving to make a positive impact in their community.
 				</p>	
 				
+				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+					<iframe src="https://www.youtube.com/embed/iiU86g5ixAE?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+				</div>
+
 				<h1>Health Clinic Equipment Upgrade</h1>
 
 				<p>Cumulative Vote Weight: 6.38</p>
@@ -156,7 +192,30 @@
 				</div>
 
 				<p>Led by Laurent, the community has voted to address the pressing healthcare challenges by upgrading necessary clinic equipment. With only one doctor per 25,000 people - and where existing facilities lack essential tools - this initiative is set to significantly enhance healthcare delivery and ensure the clinic can offer better care and support to the population. This project is a critical step toward meeting the urgent medical needs of the community.
-				</p>					
+				</p>		
+				
+				<p>
+				  <img src="/images/6_1.jpeg" alt="Health Clinic 1" class="responsive-image"/>
+			  </p>
+				<p>
+				  <img src="/images/6_2.jpeg" alt="Health Clinic 2" class="responsive-image"/>
+			  </p>
+				<p>
+				  <img src="/images/6_3.jpeg" alt="Health Clinic 3" class="responsive-image"/>
+			  </p>							
+
+				<h1>Two Additional Projects to Fund</h1>
+				
+				<p>In addition to the six projects above, which exhaused the $60k we raised for the pilot round, we are ALSO trying to raise funds for two additional runner-up projects that would be amazing to see built:</p>
+
+				<p><strong>Project # 7</strong>: A well for clean water access for the village of KLIKAME, near the pinapple demonstration farm our staff is involved with (and our western staff/board members visited last summer).</p>
+
+				<p><strong>Project # 8</strong>: A well for clean water access for an orphanage in AMOUZOU-KOPE.</p>
+
+				<p>If you would be interested in donating to help us with these two projects, please jump in <a href="https://discord.gg/we344V4QP7">our Discord server</a> and contact us. Thanks! 🙏</p>
+
+
+
 
 			</div>
 		</section>
