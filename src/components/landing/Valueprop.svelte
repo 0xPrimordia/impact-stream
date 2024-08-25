@@ -6,9 +6,9 @@
 				<img src="/images/phone.svg" alt="phone with voting options" />
 			</div>
 			<div class="value-prop-right">
-				<h1>Current Project: On-Chain Quadratic Voting and Funding Pool for Togo, West Africa</h1>
+				<h1>Pilot Round: On-Chain Quadratic Voting and Funding Pool for Togo, West Africa</h1>
 				<p>
-					<em>Updated April 27, 2024</em>
+					<em>Updated August 24, 2024</em>
 				</p>
 
 				<p>
@@ -20,7 +20,7 @@
 				</p>
 
 				<p>
-					Over 100 people from Togo signed up for the web app using their local mobile phone number. We had 30 proposals submitted for regenerative public goods and poverty alleviation projects. This occurred in and around the capital city of Lomé and surrounding villages. 
+					Over 120 people from Togo signed up for the web app using their local mobile phone number. We had 30 proposals submitted for regenerative public goods and poverty alleviation projects. This occurred in and around the capital city of Lomé and surrounding villages. 
 				</p>
 
 				<p>
@@ -31,7 +31,7 @@
 					43 people participated in the quadratic voting process. Each person had 10 vote credits to apply to one or more of the 30 projects. The square root of their votes applied to each project was then tallied together to reveal the highest-ranked projects according to their local preferences.
 				</p>
 
-				<p>The main idea of our open-source web app is to allow local people to submit proposals, in their own language, to suggest solutions for local problems. In addition to transparent, on-chain voting to determine community preference, money from a funding pool provided by our global community is then used to fund each project - from top to bottom in ranking order - until the funding runs out.</p>
+				<p>The main idea of our open-source web app is to allow local people to submit proposals, in their own language <em>(They speak French and Ewe)</em>, to suggest solutions for local problems. In addition to transparent, on-chain voting to determine community preference, money from a funding pool provided by our global community is then used to fund each project - from top to bottom in ranking order - until the funding runs out.</p>
 
 				<p>We successfully raised $60k+ USD earmarked to go directly to Togo for these projects! We are now in the process of actively funding the following six projects: </p>
 
@@ -49,6 +49,20 @@
 
 				<p>Through Laurent's leadership, plans are underway to establish an educational center aimed at equipping local adults with essential technology skills. Recognizing the growing need for tech proficiency as the regional economy evolves, this initiative will provide targeted training to help older adults secure tech-related jobs and continue their education from home, empowering them to meet the demands of the modern workplace.</p>
 
+				<p><em>FYI - we are still working on the subtitles for the below video updates. Stay tuned!</em></p>
+
+			<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+					<iframe src="https://www.youtube.com/embed/V_PeZK8qWsA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+			</div>
+
+			<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+				<iframe src="https://www.youtube.com/embed/u9ojAlf4Sjo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+		  </div>
+
+			<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 15px">
+				<iframe src="https://www.youtube.com/embed/wj98RBUvqh4?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+		  </div>
+
 				<h1>Youth Professional Training for Textile and Apparel Manufacturing</h1>
 
 				<p>Cumulative Vote Weight: 25.95</p>
@@ -63,6 +77,27 @@
 
 				<p>Togo has an unemployment rate of 55%. This proposal is aimed to help bring jobs and job training to the region in the market of textile and apparel manufacturing. Many young individuals, after dropping out of school, face financial barriers to professional training, hindering community and national development. The solution proposed by this project provides access to sewing machines - and covered training costs - for young people to foster self-sufficiency and contribute to community development in the area.</p>
 
+				<p>
+				  <img src="/images/2_1.png" alt="Teacher and Student" class="responsive-image"/>
+			  </p>
+				<div class="image-caption">
+					André, with a student who is directly benefiting from this project! 
+				</div>
+
+				<p>
+				  <img src="/images/2_2.jpeg" alt="Equipment" class="responsive-image"/>
+			  </p>
+				<div class="image-caption">
+					Purchased equipment 
+				</div>
+
+				<p>
+				  <img src="/images/2_3.jpeg" alt="Equipment" class="responsive-image"/>
+			  </p>
+				<div class="image-caption">
+					Even more purchased equipment 
+				</div>
+
 				<h1>Community Library</h1>
 
 				<p>Cumulative Vote Weight: 17.10</p>
@@ -76,7 +111,6 @@
 				</div>
 
 				<p>The community has voiced their support for a new initiative led by Jacques to establish a library in a region currently lacking educational resources. Recognizing the shift among children towards social media, this library aims to reignite their interest in reading through engaging activities and periodic contests. This project promises to be a beacon for learning, offering children the chance to explore the vast worlds contained within books and enhance their educational experiences.</p>								
-				
 
 				<h1>Solar-Powered Clean Water Access</h1>
 
