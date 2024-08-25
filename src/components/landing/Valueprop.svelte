@@ -15,8 +15,10 @@
 					Hello everyone 👋,
 				</p>
 
+				<p><em>For those visiting from Quirkies for our special Togo Water campaign, check out <a href="/quirkies">this dedicated page</a></em>. Thank you! 🙏</p>
+
 				<p>
-					We have successfully created an initial prototype of our open-source <a href="https://github.com/0xPrimordia/impact-stream-app/">web app</a> and run our first round! 
+					FYI, we're excited to share that in the past year we have successfully created an initial prototype of our open-source <a href="https://github.com/0xPrimordia/impact-stream-app/">web app</a> and run our first round! 
 				</p>
 
 				<p>
@@ -216,7 +218,7 @@
 
 				<p><strong>Project # 8</strong>: A well for clean water access for an orphanage in AMOUZOU-KOPE.</p>
 
-				<p>If you would be interested in donating to help us with these two projects, please jump in <a href="https://discord.gg/we344V4QP7">our Discord server</a> and contact us. Thanks! 🙏</p>
+				<p>If you would be interested in donating to help us with these two projects, please visit <a href="/quirkies">this dedicated campaign page</a> - which has a lot more detail - and ALSO feel free to jump in <a href="https://discord.gg/we344V4QP7">our Discord server</a> to say hello. Thanks! 🙏</p>
 
 
 
