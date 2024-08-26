@@ -39,13 +39,6 @@
 			</div>
 
 			<div class="member">
-				<a href="https://www.linkedin.com/in/itsmarkschubert/" target="_blank"
-					><div style="background-image:url(/images/mark.jpeg)" class="avatar" /></a
-				>
-				<div><h3>Mark</h3></div>
-			</div>	
-
-			<div class="member">
 				<a href="" target="_blank"
 					><div style="background-image:url(/images/azaria.png)" class="avatar" /></a
 				>
@@ -60,17 +53,39 @@
 			</div>
 
 			<div class="member">
-				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
-					><div style="background-image:url(/images/will-little.jpg)" class="avatar" /></a
+				<a href="https://www.linkedin.com/in/itsmarkschubert/" target="_blank"
+					><div style="background-image:url(/images/mark.jpeg)" class="avatar" /></a
 				>
-				<div><h3>Will</h3></div>
+				<div><h3>Mark</h3></div>
 			</div>	
+
 			<div class="member">
 				<a href="https://obertal.com/leavenworth-wa-hotel-owner/" target="_blank"
 					><div style="background-image:url(/images/hans.png)" class="avatar" /></a
 				>
 				<div><h3>Hans</h3></div>
 			</div>
+
+			<div class="member">
+				<a href="https://www.linkedin.com/in/wclittle/" target="_blank"
+					><div style="background-image:url(/images/will.png)" class="avatar" /></a
+				>
+				<div><h3>Will</h3></div>
+			</div>	
+
+			<div class="member">
+				<a href="https://twitter.com/princessashleiv" target="_blank"
+					><div style="background-image:url(/images/ashlei.png)" class="avatar" /></a
+				>
+				<div><h3>Ashlei</h3></div>
+			</div>	
+
+			<div class="member">
+				<a href="https://twitter.com/OneAndOnlyPapii" target="_blank"
+					><div style="background-image:url(/images/papii.jpg)" class="avatar" /></a
+				>
+				<div><h3>Papii</h3></div>
+			</div>				
 
 			<div class="member">
 				<a href="https://twitter.com/0xZakk" target="_blank"
@@ -96,12 +111,6 @@
 					><div style="background-image:url(/images/kevin.png)" class="avatar" /></a
 				>
 				<div><h3>Kevin O</h3></div>
-			</div>
-			<div class="member">
-				<a href="https://delightfulabyss.xyz" target="_blank"
-					><div style="background-image:url(/images/matt.jpg)" class="avatar" /></a
-				>
-				<div><h3>Matt</h3></div>
 			</div>
 			<div class="member">
 				<a href="https://bento.me/captaincrunch" target="_blank"
@@ -241,7 +250,7 @@
         padding-bottom: 56.25%; /* 16:9 aspect ratio */
         height: 0;
         overflow: hidden;
-        max-width: 800px; /* Set your desired max-width here */
+        max-width: 1200px; /* Set your desired max-width here */
         margin: 0 auto 15px auto; /* Center the video on the page */
     }
 
@@ -250,7 +259,7 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			height: 75%;
+			height: 80%;
 	}
 
 </style>
