@@ -143,6 +143,7 @@
 			<Logo src="images/gitcoin-logo.svg" />
 			<Logo src="images/primordia-logo.svg" />
 			<Logo src="images/cfx-black.svg" />			
+			<Logo src="images/quirkies.png" />				
 		</div>
 	</section>
 </div>
