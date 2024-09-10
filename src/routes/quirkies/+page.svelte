@@ -7,7 +7,7 @@
 
 <div class="wrapper">
 	<section class="section-hero">
-		<h2 style="text-align: center; margin-bottom: 5px;">Togo Water Campaign begins <br /> Sept 9, 2024</h2>
+		<h2 style="text-align: center; margin-bottom: 5px;">Togo Water Campaign begins <br /> Sept 16, 2024</h2>
 		<!-- <h5><em>Last updated: Monday 25 3:23pm PDT</em></h5> -->
 		<br /><br />
 		<h1 id="hero-heading">Welcome, Quirkies!</h1>
@@ -15,7 +15,7 @@
 			<img src="/images/quirks.png" alt="Quirkies" class="responsive-image"/>
 		</p>
 
-		<h2>Impact Stream is partnering with Quirkies to raise $17k+ USD</h2>
+		<h2>Impact Stream is partnering with Quirkies to raise $25k+ USD</h2>
 		<br /><br />
 		<h4>Donations help local entrepreneurs build two solar-powered wells in Togo, West Africa</h4>
 
