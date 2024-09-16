@@ -7,7 +7,7 @@
 
 <div class="wrapper">
 	<section class="section-hero">
-		<h2 style="text-align: center; margin-bottom: 5px;">Togo Water Campaign begins <br /> Sept 16, 2024</h2>
+		<h2 style="text-align: center; margin-bottom: 5px;">Togo Water Campaign begins <br /> Sept 17, 2024</h2>
 		<!-- <h5><em>Last updated: Monday 25 3:23pm PDT</em></h5> -->
 		<br /><br />
 		<h1 id="hero-heading">Welcome, Quirkies!</h1>
