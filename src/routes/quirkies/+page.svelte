@@ -15,9 +15,17 @@
 			<img src="/images/quirks.png" alt="Quirkies" class="responsive-image"/>
 		</p>
 
-		<h2>Impact Stream is partnering with Quirkies to raise $25k+ USD</h2>
+		<h2>Impact Stream is partnering with Quirkies to help raise $25k+ USD</h2>
+
 		<br /><br />
-		<h4>Donations help local entrepreneurs build two solar-powered wells in Togo, West Africa</h4>
+		<h4>Thanks to generous donors, we currently have a 3.5x multiplier on donations up to $5k for this campaign. </h4>
+			
+		<br /><br />
+
+		<h4> So $5k would turn into $17.5k!</h4>
+
+		<br /><br />
+		<h4>The full $25k funds two solar-powered wells in Togo, West Africa, built/maintained by local entrepreneurs</h4>
 
 		<p style="margin-top:5px">
 			<img src="/images/well-locations.png" alt="Well Locations" class="responsive-image"/>
