@@ -33,13 +33,16 @@
 		</p>
 
 		<div style="margin-top: -50px;">
-			One well is for a village (marker on the right) called KLIKAME
+			One well is for a village (marker on the right) called KLIKAME. Here is a photo of some of the villiagers:
   	</div>
 
-		<br /><br />
-		<h4>The other well is for an orphanage (marker on the left) in AMOUZOU-KOPE. They graciously shared this photo with us, knowing that we are doing our best to help.</h4>
-
 		<p style="margin-top:5px">
+			<img src="/images/villiage.jpg" alt="Orphanage" class="responsive-image"/>
+		</p>	
+
+		<h4 style="margin-top: -50px;">The other well is for an orphanage (marker on the left) in AMOUZOU-KOPE. They graciously shared this photo with us, knowing that we are doing our best to help.</h4>
+
+		<p style="margin-top:10px">
 			<img src="/images/orphanage.jpg" alt="Orphanage" class="responsive-image"/>
 		</p>		
 
