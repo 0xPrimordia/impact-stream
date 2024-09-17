@@ -2,11 +2,11 @@
     {
         "hero": {
             "title": "Digital -> IRL Impact",
-            "sub": "We create transparent streams of impact between digital communities and real-life communities",
+            "sub": "We are decentralizing poverty alleviation and creating transparent streams of impact to developing communities",
             "button": "Donate"
         },
         "footer": {
-            "discordCta": "Join our Discord lorem ipsum dolor sit amet",
+            "discordCta": "Join our Discord",
             "button": "Join Now",
             "email": "hello@impact.stream"
         }
