@@ -8,7 +8,7 @@
 			<div class="value-prop-right">
 				<h1>Pilot Round: On-Chain Quadratic Voting and Funding Pool for Togo, West Africa</h1>
 				<p>
-					<em>Updated August 25, 2024</em>
+					<em>Updated September 17, 2024</em>
 				</p>
 
 				<p>

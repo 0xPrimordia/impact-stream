@@ -5,7 +5,7 @@
 </script>
 
 <nav class="main-nav">
-	<Logo src="images/impact-stream-logo.svg" />
+	<Logo src="./images/impact-stream-logo.svg" />
 	<ul class={'nav-links' + (open ? ' hamburgle' : '')}>
 		<li class="nav-item"><a href="/">Home</a></li>
 		<li class="nav-item"><a href="/quirkies">Quirkies</a></li>
