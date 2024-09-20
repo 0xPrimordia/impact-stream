@@ -82,7 +82,7 @@
 
 			<div class="member">
 				<a href="https://twitter.com/OneAndOnlyPapii" target="_blank"
-					><div style="background-image:url(/images/papii.jpg)" class="avatar" /></a
+					><div style="background-image:url(/images/bat-papii.jpg)" class="avatar" /></a
 				>
 				<div><h3>Papii</h3></div>
 			</div>				

@@ -18,11 +18,11 @@
 		<h2>Impact Stream is partnering with Quirkies to help raise $25k+ USD</h2>
 
 		<br /><br />
-		<h4>Thanks to generous donors, we currently have a 4.5x multiplier on donations up to $5k for this campaign. </h4>
+		<h4>Thanks to generous donors, we currently have a 5x multiplier on donations up to $5k for this campaign. </h4>
 			
 		<br /><br />
 
-		<h4> So $5k raised would turn into $22.5k!</h4>
+		<h4> So $5k raised would turn into $25k!</h4>
 
 		<br /><br />
 		<h4>The full $25k funds two solar-powered wells in Togo, West Africa, built/maintained by local entrepreneurs</h4>
